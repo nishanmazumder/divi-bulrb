@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Divi Blurb
-Plugin URI:  bdsoftcreation.com
+Plugin URI:  nishanmazumder.com
 Description: divi extension
 Version:     1.0.0
 Author:      Nishan M
-Author URI:  bdsoftcreation.com
+Author URI:  nishanmazumder.com
 License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: dibl-divi-blurb
